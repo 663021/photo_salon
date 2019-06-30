@@ -1,0 +1,134 @@
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\bin\Debug\Photo_Salon.exe.config
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\bin\Debug\Photo_Salon.exe
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\bin\Debug\Photo_Salon.pdb
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\bin\Debug\WPFToolkit.dll
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.csprojResolveAssemblyReference.cache
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\MainWindow.g.cs
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\App.g.cs
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon_MarkupCompile.cache
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon_MarkupCompile.lref
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\App.baml
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\MainWindow.baml
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.g.resources
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.Properties.Resources.resources
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.csproj.GenerateResource.Cache
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.exe
+c:\users\михаил\documents\visual studio 2015\Projects\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.pdb
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.csprojAssemblyReference.cache
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\MainWindow.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\App.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon_MarkupCompile.cache
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon_MarkupCompile.lref
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.exe
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.pdb
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\bin\Debug\Photo_Salon.exe.config
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\bin\Debug\Photo_Salon.exe
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\bin\Debug\Photo_Salon.pdb
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\bin\Debug\WPFToolkit.dll
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\App.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\MainWindow.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.g.resources
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.Properties.Resources.resources
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.csproj.GenerateResource.cache
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.csproj.CoreCompileInputs.cache
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.csproj.CopyComplete
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\FirstPage.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\FirstPage.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\TablePageClient.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\TablePageClient.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\AddPageClient.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\AddPageClient.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\bin\Debug\Photo_Salon.exe.config
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.exe
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.pdb
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\bin\Debug\Photo_Salon.exe
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\bin\Debug\Photo_Salon.pdb
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\bin\Debug\WPFToolkit.dll
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.csprojResolveAssemblyReference.cache
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\AddPageClient.g.cs
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\TablePageClient.g.cs
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\FirstPage.g.cs
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\MainWindow.g.cs
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\App.g.cs
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon_MarkupCompile.cache
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon_MarkupCompile.lref
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\App.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\AddPageClient.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\TablePageClient.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\FirstPage.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\MainWindow.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.g.resources
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.Properties.Resources.resources
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\Photo_Salon.csproj.GenerateResource.Cache
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\EditPageClient.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\EditPageClient.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\DeletePageClient.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\DeletePageClient.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\AddPageProduct.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\TablePageProduct.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\AddPageProduct.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\TablePageProduct.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\EditPageProduct.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\EditPageProduct.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\DeletePageProduct.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\DeletePageProduct.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\AddPageProduct.g.cs
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\DeletePageProduct.g.cs
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\DeletePageClient.g.cs
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\EditPageProduct.g.cs
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\EditPageClient.g.cs
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\TablePageProduct.g.cs
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\AddPageProduct.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\DeletePageProduct.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\DeletePageClient.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\EditPageProduct.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\EditPageClient.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\TablePageProduct.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\AddPageServices.g.cs
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\DeletePageServices.g.cs
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\EditPageSevices.g.cs
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\TablePageServices.g.cs
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\AddPageServices.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\DeletePageServices.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\EditPageSevices.baml
+C:\Users\михаил\Desktop\Photo_Salon\Photo_Salon\obj\Debug\TablePageServices.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\AddPageServices.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\DeletePageServices.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\EditPageSevices.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\TablePageServices.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\AddPageServices.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\DeletePageServices.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\EditPageSevices.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\TablePageServices.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\AddPageOrder.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\AddPageOrder.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\TablePageOrder.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\TablePageOrder.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\DeletePageOrder.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\DeletePageOrder.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\bin\Debug\Xceed.Words.NET.dll
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\RegWindow.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\RegWindow.baml
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\EditWindow.g.cs
+C:\Users\дом1\Desktop\Photo_Salon\Photo_Salon\obj\Debug\EditWindow.baml

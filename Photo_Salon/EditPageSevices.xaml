@@ -1,0 +1,51 @@
+﻿<Window x:Class="Photo_Salon.EditPageSevices"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Photo_Salon"
+        mc:Ignorable="d"
+        Title="MainWindow" MaxHeight="572.22"  MinHeight="572.22" Height="572.22" WindowStartupLocation="CenterScreen" MaxWidth="1142.216" MinWidth="1142.216" Width="1142.216" Background="#FF323232" ResizeMode="NoResize" WindowStyle="None" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="285"/>
+            <ColumnDefinition Width="285"/>
+            <ColumnDefinition Width="285"/>
+            <ColumnDefinition Width="285"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="129*"/>
+            <RowDefinition Height="14*"/>
+        </Grid.RowDefinitions>
+
+        <Label x:Name="label" Content="Редактирование услугу"  HorizontalAlignment="Center" Margin="178,26,175,0" VerticalAlignment="Top" Grid.Column="1" FontSize="18" Foreground="White" Width="218" Height="34" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
+        <Label x:Name="label_Copy4" Content="" HorizontalAlignment="Stretch" Margin="10,35,0,433" Foreground="#FF9276DE" FontSize="12" Background="#FF9276DE" Grid.Row="1" Grid.ColumnSpan="4"/>
+
+        <Label x:Name="label_Copy2" Content="by Pavel Podrebinkun" Margin="222,15,219,0" HorizontalAlignment="Stretch" VerticalAlignment="Top" Foreground="#FF9276DE" FontSize="12" Grid.Row="2" Height="26" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Label x:Name="label_Copy3" Content="" Margin="10,3,0,0" VerticalAlignment="Top" Foreground="#FF9276DE" HorizontalAlignment="Stretch" Grid.ColumnSpan="4" FontSize="12" Background="#FF9276DE" Height="1" Grid.Row="2"/>
+        <Button x:Name="button_Copy16" Content="Назад" HorizontalAlignment="Left" Margin="42,28,0,0"  VerticalAlignment="Top" Width="200" Foreground="White" Grid.RowSpan="2" Click="Button_Copy16_Click_1" />
+        <Button x:Name="button_Copy17" Content="Выход" HorizontalAlignment="Left" Margin="45,28,0,0"  VerticalAlignment="Top" Width="200" Foreground="White" Grid.RowSpan="2" Grid.Column="3" Click="Button_Copy17_Click"/>
+        <Image x:Name="image1" Grid.ColumnSpan="4" HorizontalAlignment="Stretch"  Margin="-69,16,0,27" Grid.Row="1" VerticalAlignment="Stretch" Opacity="0.15" StretchDirection="UpOnly" Grid.RowSpan="2"/>
+        <MediaElement x:Name="mediaElement" Grid.ColumnSpan="4" HorizontalAlignment="Stretch"  Margin="-69,16,0,27" Grid.Row="1" VerticalAlignment="Stretch" Opacity="0.15" StretchDirection="UpOnly" Grid.RowSpan="2" MediaEnded="MediaElement_MediaEnded_3" MediaOpened="MediaElement_MediaOpened_3"/>
+        <Image x:Name="image" Grid.ColumnSpan="2" Grid.Column="2" HorizontalAlignment="Left" Height="242" Margin="176,85,0,0" Grid.Row="1" VerticalAlignment="Top" Width="284" Opacity="0.9"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="72,361,0,0" TextAlignment="Center" VerticalAlignment="Top" FontSize="18" Width="458" Height="84" Grid.Column="2" Foreground="White" Grid.ColumnSpan="2" Grid.Row="1" TextWrapping="Wrap" Text="Эта форма создана для редактирования данных услуги, выберите услугу из выпадающего списка, измените данные в полях и нажмите изменить"/>
+
+        <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Height="23" Margin="134,256,0,0" TextWrapping="Wrap" Text="" Grid.Column="0" VerticalAlignment="Top" Width="200" Foreground="White" Grid.Row="1" Grid.ColumnSpan="2" TextChanged="TextBox_TextChanged"/>
+        <Label x:Name="label_Copy1" Content="Наименование" HorizontalAlignment="Left" Margin="25,257,0,0" Grid.Column="0" VerticalAlignment="Top" Foreground="White" Grid.Row="1"/>
+
+        <TextBox x:Name="textBox_Copy1" HorizontalAlignment="Left" Height="23" Margin="134,301,0,0" TextWrapping="Wrap" Text="" Grid.Column="0" VerticalAlignment="Top" Width="200" Foreground="White" Grid.Row="1" Grid.ColumnSpan="2" TextChanged="TextBox_TextChanged"/>
+        <Label x:Name="label_Copy5" Content="Тип услуги" HorizontalAlignment="Left" Margin="25,300,0,0" Grid.Column="0" VerticalAlignment="Top" Foreground="White" Grid.Row="1"/>
+
+        <TextBox x:Name="textBox_Copy3" HorizontalAlignment="Left" Height="23" Margin="142,257,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Foreground="White" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="1" TextChanged="TextBox_TextChanged"/>
+        <Label x:Name="label_Copy7" Content="Стоимость" HorizontalAlignment="Left" Margin="60,254,0,0" VerticalAlignment="Top" Foreground="White" Grid.Row="1" Grid.Column="1"/>
+
+        <TextBox x:Name="textBox_Copy4" HorizontalAlignment="Left" Height="23" Margin="142,302,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Foreground="White" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="1" TextChanged="TextBox_TextChanged"/>
+        <Label x:Name="label_Copy8" Content="Срок" HorizontalAlignment="Left" Margin="60,299,0,0" VerticalAlignment="Top" Foreground="White" Grid.Row="1" Grid.Column="1"/>
+        <Button x:Name="button_Copy" Content="Изменить" HorizontalAlignment="Left" Margin="240,361,0,0"  VerticalAlignment="Top" Width="200" Foreground="White" Click="Button_Copy16_Click_1_1_22" Grid.ColumnSpan="2" Grid.Row="1" />
+        <ComboBox x:Name="ComboBox" IsEditable="True" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="246,157,0,0" Grid.Row="1" VerticalAlignment="Top" Width="194" TextBoxBase.TextChanged="ComboBox_TextChanged"/>
+        <Label x:Name="label_Copy9" Content="Данные услуги" HorizontalAlignment="Left" Margin="0,209,0,0" VerticalAlignment="Top" Foreground="White" Grid.Row="1" Grid.Column="1"/>
+        <Label x:Name="label_Copy10" Content="Выберите услугу" HorizontalAlignment="Left" Margin="284,105,0,0" VerticalAlignment="Top" Foreground="White" Grid.Row="1" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>
